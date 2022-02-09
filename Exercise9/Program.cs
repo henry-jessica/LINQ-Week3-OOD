@@ -30,8 +30,7 @@ namespace Exercise9
                 Console.WriteLine(name.Name);
             }
 
-            Console.ReadKey();
-
+            Console.ReadKey(); 
         }
     }
 
